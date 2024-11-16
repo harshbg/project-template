@@ -90,5 +90,5 @@ Feel free to reach out for collaboration, feedback, or questions.
 
 Connect with me:  
 * **Email:** [youremail@example.com](mailto:youremail@example.com)  
-* **GitHub:** [YourGitHubProfile](https://github.com/YourGitHubProfile)  
-* **LinkedIn:** [YourLinkedInProfile](https://linkedin.com/in/YourLinkedInProfile)  
+* **GitHub:** [YourGitHubProfile](https://github.com/harshbg)  
+* **LinkedIn:** [YourLinkedInProfile](https://linkedin.com/in/harshbg)  
